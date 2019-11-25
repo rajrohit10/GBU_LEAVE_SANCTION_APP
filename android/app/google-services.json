@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "951400222497",
+    "firebase_url": "https://gbuleaveappfinalversion.firebaseio.com",
+    "project_id": "gbuleaveappfinalversion",
+    "storage_bucket": "gbuleaveappfinalversion.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:951400222497:android:9a05ebf234c78bcf",
+        "android_client_info": {
+          "package_name": "com.asrinnovations.flutter_gbu_leave_app_new"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "951400222497-oh81j0sirokcek2b903ikjca3ng5fu4j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6V1mubP2h5dlAI1zeHWCh-62hzLVYIrM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "951400222497-oh81j0sirokcek2b903ikjca3ng5fu4j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
